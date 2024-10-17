@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @princessda
+- 👋 Hello, my name is Darlena Sihanourath.
 - 👀 I’m interested in Computer Science!
 - 🌱 I’m currently learning Programming Languages.
 - 💞️ I’m looking to collaborate on coding projects.
